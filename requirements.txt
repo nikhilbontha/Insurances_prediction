@@ -1,5 +1,5 @@
 pandas
 numpy
 sklearn
-pickel
-streamlit
+pickle
+skikit-learn
