@@ -1,4 +1,1 @@
-pandas
-numpy
-skikit-learn
-streamlit
+
